@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/home/fabian/anaconda3/envs/FS/bin/python",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.flake8Enabled": false
-}
